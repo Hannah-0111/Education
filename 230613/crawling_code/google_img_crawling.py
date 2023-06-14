@@ -36,7 +36,7 @@ url = 'https://www.google.co.kr/imghp?hl=ko&ogbl'
 driver.get(url)
 time.sleep(1)
 
-query = '고양이'
+query = '강아지'
 
 search_input = driver.find_element(By.ID, 'APjFqb')
 search_input.send_keys(query)
@@ -63,14 +63,14 @@ while True:
         file_name = f'{query}-{image_index}'
         if src_path.startswith('https'):
             try:
-                urlToJpg(src_path, f"images/{file_name}.jpg")
+                urlToJpg(src_path, f"../images/{file_name}.jpg")
                 print(f"url 이미지 저장:{file_name}")
             except:
                 print(f"url 이미지 저장 중 오류")
 
         elif src_path.startswith('data:image/jpeg;base64'):
             try:
-                base64ToJpg(src_path, f"images/{file_name}.jpg")
+                base64ToJpg(src_path, f"../images/{file_name}.jpg")
                 print(f"base64 이미지 저장: {file_name}")
             except:
                 print(f"base64 이미지 저장 중 오류")

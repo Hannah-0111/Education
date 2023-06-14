@@ -1,5 +1,3 @@
-# https://github.com/cseongeun/kakao/
-
 import requests
 import json
 

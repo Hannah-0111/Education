@@ -1,8 +1,0 @@
-https://kauth.kakao.com/oauth/authorize?
-client_id=[app's restAPI_key]&
-redirect_uri=http://localhost&response_type=code
-
-=> 로그인창 이동
-https://kauth.kakao.com/oauth/authorize?
-client_id=[app's restAPI_key]&
-redirect_uri=http://localhost&response_type=code

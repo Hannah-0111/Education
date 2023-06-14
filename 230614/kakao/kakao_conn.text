@@ -1,0 +1,3 @@
+https://kauth.kakao.com/oauth/authorize?
+client_id=[사용자restAPI_key]&
+redirect_uri=http://localhost&response_type=code
