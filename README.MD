@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=이것저것(a.k.a tptp)&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=이것저것&fontSize=60)
 
 
 + 기술 스택
