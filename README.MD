@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=이곳저곳&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=teal&height=200&section=header&text=이곳저곳&fontSize=60)
 
 + 사용 언어
 
@@ -25,7 +25,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah0111)](https://github.com/hannah0111/github-readme-stats)
 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=teal&height=200&section=footer)
