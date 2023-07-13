@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=이곳저곳&fontSize=30)
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=FE%20이곳저곳&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=tptp&descAlignY=70">
+</div>
 
 
 + 사용 언어
