@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=teal&height=200&section=header&text=이곳저곳&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=150&section=header&text=이곳저곳&fontSize=60)
 
 + 사용 언어
 
@@ -26,4 +26,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=teal&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=200&section=footer)
