@@ -6,9 +6,9 @@ _ 🚌🚗🏍️🛵🚲🛴 국내 이곳저곳 관광지를 지도 API를 받
 
 + 팀 소개
 
-|<img src="https://drive.google.com/file/d/1zFZ0VhBivF4LzUXPWIiN4RS4kdKnKghp/view?usp=drive_link" width="80">|<img src="https://drive.google.com/file/d/1Yra1j2032y0zziwx5ZFivoUjE8kdMHEK/view?usp=drive_link" width="80">|<img src="https://drive.google.com/file/d/1zFZ0VhBivF4LzUXPWIiN4RS4kdKnKghp/view?usp=drive_link" width="80">|<img src="https://drive.google.com/file/d/15gsUAMonOgQPMVZfyNtRFvs-gll5ctg6/view?usp=drive_link" width="80">|<img src="https://drive.google.com/file/d/15gsUAMonOgQPMVZfyNtRFvs-gll5ctg6/view?usp=drive_link" width="80">
-|:---:|:---:|:---:|:---:|
-|팀원1|팀원2|팀원3|팀원4|
+|<img src="https://drive.google.com/file/d/1zFZ0VhBivF4LzUXPWIiN4RS4kdKnKghp/view?usp=drive_link" width="80">|<img src="https://drive.google.com/file/d/1Yra1j2032y0zziwx5ZFivoUjE8kdMHEK/view?usp=drive_link" width="80">|
+|:---:|:---:|
+|팀원|팀원|
 
 + 사용 언어
 
