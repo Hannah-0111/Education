@@ -1,7 +1,4 @@
-<div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=이곳저곳&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=this place that place&descAlignY=70">
-</div>
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=이곳저곳&fontSize=60)
 
 + 사용 언어
 
