@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=f08080&height=150&section=header&text=이곳저곳&fontSize=40&fontColor=000000)   
 
-+ about tptp (this place that place)   
-_ 🚌🚗🏍️🛵🚲🛴 국내 이곳저곳 관광지를 지도 API를 받아 마커로 표시해줍니다.   
-- 🔎 35,402개의 관광지 중 원하는 장소를 선택해보세요!
+> about tptp (this place that place)   
+>> 🚌🚗🏍️🛵🚲🛴 국내 이곳저곳 관광지를 지도 API를 받아 마커로 표시해줍니다.   
+>> 🔎 35,402개의 관광지 중 원하는 장소를 선택해보세요!
 
 
 + 팀 소개
