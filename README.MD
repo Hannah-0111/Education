@@ -1,11 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=f08080&height=150&section=header&text=이곳저곳&fontSize=40&fontColor=000000)   
 
-> tptp 소 (this place that place)   
+
+> tptp 소개 (this place that place)   
+
 
 + 🚌🚗🏍️🛵🚲🛴 국내 이곳저곳 관광지를 지도 API를 받아 마커로 표시해줍니다.   
 + 🔎 35,402개의 관광지 중 원하는 장소를 선택해보세요!
 
-* * * 
+
+* * *    
+
 
 > 팀 소개
 
@@ -15,7 +19,9 @@
  |homepage 제작|homepage 제작|알고리즘 작성|데이터 시각화|
  |Java, SQL|Java, SQL|Java,Python, SQL|Java, SQL|
 
-* * * 
+
+* * *    
+
 
 + 사용 언어
 
@@ -27,7 +33,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
-* * *
+
+* * *   
+
 
 + 사용 툴(IDE/프레임워크/라이브러리 외)
 
@@ -42,7 +50,9 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)   
 
-* * *
+
+* * *   
+
 
 + 협업툴
 
