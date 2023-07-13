@@ -1,7 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=f08080&height=150&section=header&text=이곳저곳&fontSize=40&fontColor=000000)
 
 + about tptp (this place that place)   
-_ 🚌🚗🏍️🛵🚲🛴 국내 이곳저곳 관광지를 지도 API를 받아 마커로 표시해줍니다.
+_ 🚌🚗🏍️🛵🚲🛴 국내 이곳저곳 관광지를 지도 API를 받아 마커로 표시해줍니다.   
+
+
++ 팀 소개
+
+|<img src="https://drive.google.com/file/d/1zFZ0VhBivF4LzUXPWIiN4RS4kdKnKghp/view?usp=drive_link" width="80">|<img src="https://drive.google.com/file/d/1Yra1j2032y0zziwx5ZFivoUjE8kdMHEK/view?usp=drive_link" width="80">|<img src="https://drive.google.com/file/d/1zFZ0VhBivF4LzUXPWIiN4RS4kdKnKghp/view?usp=drive_link" width="80">|<img src="https://drive.google.com/file/d/15gsUAMonOgQPMVZfyNtRFvs-gll5ctg6/view?usp=drive_link" width="80">|<img src="https://drive.google.com/file/d/15gsUAMonOgQPMVZfyNtRFvs-gll5ctg6/view?usp=drive_link" width="80">
+|:---:|:---:|:---:|:---:|
+|팀원1|팀원2|팀원3|팀원4|
 
 + 사용 언어
 
