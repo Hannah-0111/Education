@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=f08080&height=150&section=header&text=Hannah's&fontSize=40&fontColor=000000)   
+![header](https://capsule-render.vercel.app/api?type=waving&color=f08080&height=150&section=header&text=Hannah's&fontSize=40&fontColor=000000)   
 
 
 > github 소개
 
 
-+ 🔎 공부한 내용을 올리는 장송입니다.
++ 🔎 공부한 내용을 올리는 공간입니다.
 
 
 * * *    
@@ -13,7 +13,7 @@
 > 소개
 
 👩 Hannah
-+ 개발자 지망생 입니다.
++ 웹 개발자 지망생 입니다.
 
 
 * * *    
